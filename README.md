@@ -30,6 +30,5 @@ Overall, the CRUD project is an essential tool for managing data in a web-based 
 * Django - Web framework used
 * Bootstrap - Front-end component 
 * HTML 5
-* CSS
 * javascript
-* jquery
+* jQuery 
